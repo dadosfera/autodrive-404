@@ -1,6 +1,6 @@
 # Página de Provisionamento – SaaS **Dadosfera**
 
-> ⚠️ **Legado.** Este repositório não recebe manutenção. O Autodrive ativo está em [dadosfera/autodrive-ddf-v1](https://github.com/dadosfera/autodrive-ddf-v1); mapa completo em [dadosfera/autodrive-ddf-group](https://github.com/dadosfera/autodrive-ddf-group).
+> ⚠️ **Legado.** Este repositório não recebe manutenção; o GitHub Pages continua publicado. O Autodrive ativo está em [dadosfera/autodrive-ddf-v1](https://github.com/dadosfera/autodrive-ddf-v1) (privado); mapa completo em [dadosfera/autodrive-ddf-group](https://github.com/dadosfera/autodrive-ddf-group) (privado, acesso interno Dadosfera).
 
 > **Autodrive DDF — repo-group**
 > - **Este repo:** página estática de provisionamento (SaaS Dadosfera) para o módulo de inteligência.
